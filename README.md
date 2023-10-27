@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srinivas</h1>
 <h3 align="center">A Dumb who wants to code when a chance is right</h3>
+<img align="right" alt="Coding" width="600" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
 - 🔭 I’m currently working on **Something Mysterious**
 
